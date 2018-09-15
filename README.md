@@ -8,6 +8,9 @@ Simin Shamsfallah https://github.com/siminshams https://www.linkedin.com/in/simi
 
 Andy Reines www.github.com/andrewreines www.linkedin.com/in/andrewreines
 
+Ethan Fisher https://github.com/EthanPFisher
+https://www.linkedin.com/in/ethan-fisher-014678168/
+
 Joshua Pearson www.github.com/Pearsonj www.linkedin.com/in/joshua-pearson-81a497165/
 
 Kimmy Kablitz https://github.com/kimkablitz https://www.linkedin.com/in/kimmy-k-592228139/
